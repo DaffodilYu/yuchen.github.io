@@ -7,8 +7,15 @@ Building up...
 
 ### Physics Learning
 - [blog on Computational physics](https://compphys.go.ro/)
-- [MIT EE & CS lecutures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
+- [MIT EE & CS lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 - [MIT Physics Lectures](https://ocw.mit.edu/courses/physics/) 
+
+#### Quantum Field Theory
+- [Cambridge QFT by David Tong](https://www.damtp.cam.ac.uk/user/tong/qft.html)
+- [QFT by Michael Luke](https://www.physics.utoronto.ca/~luke/PHY2403F/Homepage.html)
+- [Fields   by Warren Siegel](http://insti.physics.sunysb.edu/~siegel/errata.shtml)
+- [Quantum Condensed Matter Field Theory by Ben Simons](http://www.tcm.phy.cam.ac.uk/~bds10/tp3.html)
+- [QFT by Jacob Linder](https://sites.google.com/view/lindergroup/qft?authuser=0)
 
 ## Programming
 ### Matlab
