@@ -8,6 +8,13 @@ Building up...
 ### Research interest
 - [QUANtum Technologies with 2D-OXides](http://quantox.spin.cnr.it/)
 
+### Journal and thesus
+- [PhD thesis in Catalunia Spain](https://www.tdx.cat/)
+- [PhD thesis in UAB](https://ddd.uab.cat/)
+
+### Experiments
+- [Photolithography and e-beam lithography recipes](https://nano.physics.leidenuniv.nl/dokuwiki/doku.php?id=resist_and_e-beam_recipes)
+
 ### Physics Learning
 - [blog on Computational physics](https://compphys.go.ro/)
 - [MIT EE & CS lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
@@ -19,6 +26,10 @@ Building up...
 - [Fields   by Warren Siegel](http://insti.physics.sunysb.edu/~siegel/errata.shtml)
 - [Quantum Condensed Matter Field Theory by Ben Simons](http://www.tcm.phy.cam.ac.uk/~bds10/tp3.html)
 - [QFT by Jacob Linder](https://sites.google.com/view/lindergroup/qft?authuser=0)
+
+#### density functional theory
+- [Modeling materials using density functional theory](http://kitchingroup.cheme.cmu.edu/dft-book/dft.html) by John Kitchin
+
 
 ## Language
 ### English
