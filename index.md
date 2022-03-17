@@ -5,6 +5,9 @@ Building up...
 
 ## Interesting links
 
+### Research interest
+- [QUANtum Technologies with 2D-OXides](http://quantox.spin.cnr.it/)
+
 ### Physics Learning
 - [blog on Computational physics](https://compphys.go.ro/)
 - [MIT EE & CS lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
@@ -16,6 +19,14 @@ Building up...
 - [Fields   by Warren Siegel](http://insti.physics.sunysb.edu/~siegel/errata.shtml)
 - [Quantum Condensed Matter Field Theory by Ben Simons](http://www.tcm.phy.cam.ac.uk/~bds10/tp3.html)
 - [QFT by Jacob Linder](https://sites.google.com/view/lindergroup/qft?authuser=0)
+
+## Language
+### English
+- [Synonym](https://www.thesaurus.com/)
+
+## Software
+### OOMMF
+- [Talk: Micromagnetics and OOMMF](https://www.spintalks.org/tutorials)
 
 ## Programming
 ### Matlab
