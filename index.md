@@ -1,36 +1,39 @@
-## Welcome to Yu's treehole/欢迎来到琅嬛福地
-
-You can use the [editor on GitHub](https://github.com/Dryuchen/yuchen.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Yu's treehole/琅嬛福地
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Interesting links
 
-```markdown
-Syntax highlighted code block
+### Physics Learning
+- [blog on Computational physics](https://compphys.go.ro/)
+- [MIT EE & CS lecutures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
+- [MIT Physics Lectures](https://ocw.mit.edu/courses/physics/) 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Programming
+### Matlab
+test： Double-slit interference 
+```matlab
+clear all
+ym = 1.25; y = linspace(-ym,ym,101);
+d = 2; z = 1000; lambda = 5e-4;
+L1 = sqrt((y-1).^2+z^2); L2 = sqrt((y+1).^2+z^2);
+phi = 2*pi*(L2-L1)/lambda;
+I = 4*(cos(phi/2)).^2;
+subplot(2,1,1)
+plot(y,I)
+axis([-1.25 1.25 0 4])
+subplot(2,1,2)
+B = I*255/5;
+image(B);
+colormap(gray(255));
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+## Publications
+1. Chen, Y.; Lechaux, Y.; Casals, B.; Guillet, B.; Minj, A.; Gázquez, J.; Méchin, L.; Herranz, G. _Photoinduced Persistent Electron Accumulation and Depletion in LaAlO3/SrTiO3 Quantum Wells._ [**Phys. Rev. Lett.** 2020, 124, 246804](https://doi.org/10.1103/PhysRevLett.124.246804).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DaffodilYu/yuchen.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
