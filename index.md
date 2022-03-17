@@ -5,7 +5,7 @@ Building up...
 
 ## Interesting links
 
-### Research interest
+### Research relevance
 - [QUANtum Technologies with 2D-OXides](http://quantox.spin.cnr.it/)
 
 
@@ -23,7 +23,7 @@ Building up...
 - [MIT EE & CS lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 - [MIT Physics Lectures](https://ocw.mit.edu/courses/physics/) 
 - [Quantum Physics](https://www2.ph.ed.ac.uk/~gja/qp/) This is a course on Quantum Mechanics written and delivered by Prof. Graeme Ackland at the University of Edinburgh between 2006 and 2011.
-- []
+
 
 #### Quantum Field Theory
 - [Cambridge QFT by David Tong](https://www.damtp.cam.ac.uk/user/tong/qft.html)
@@ -38,12 +38,12 @@ Building up...
 
 
 
-## Language
-### English
+### Language
+#### English
 - [Synonym](https://www.thesaurus.com/)
 
-## Software
-### OOMMF
+### Software learning
+#### OOMMF
 - [Talk: Micromagnetics and OOMMF](https://www.spintalks.org/tutorials)
 
 ### Journal and thesis
@@ -51,7 +51,12 @@ Building up...
 - [PhD thesis in UAB](https://ddd.uab.cat/)
 - [Cambridge University press](https://www.cambridge.org/)
 
-## Programming
+### Scholar webpage
+- [Gervasi Herranz](https://gervasi-herranz.blog/)
+- [Shanshan wang](https://shannwang.github.io/shanshanwang/index.html)
+> Her research interests: Econophysics, Market Microstructure, Price Impact, Complex Systems, Traffic Networks, Data Science, Machine Learning
+
+## Software/Code
 ### Matlab
 test： Double-slit interference 
 ```matlab
@@ -69,7 +74,14 @@ B = I*255/5;
 image(B);
 colormap(gray(255));
 ```
+### Originlab
+Save the figure command.
+```
+expGraph type:=png path:="C:\xx\xx\xx\xx" filename:="TEST" ;
+```
+### Igor
 
+### Python
 
 ## Publications
 1. Y. Chen, Y. Lechaux, B. Casals, B. Guillet, A. Minj, J. Gázquez, L. Méchin, and G. Herranz, Photoinduced Persistent Electron Accumulation and Depletion in LaAlO3/SrTiO3 Quantum Wells, [**Phys. Rev. Lett.** 2020, 124, 246804](https://doi.org/10.1103/PhysRevLett.124.246804).
