@@ -8,12 +8,13 @@ Building up...
 ### Research interest
 - [QUANtum Technologies with 2D-OXides](http://quantox.spin.cnr.it/)
 
-### Journal and thesus
-- [PhD thesis in Catalunia Spain](https://www.tdx.cat/)
-- [PhD thesis in UAB](https://ddd.uab.cat/)
 
 ### Experiments
 - [Photolithography and e-beam lithography recipes](https://nano.physics.leidenuniv.nl/dokuwiki/doku.php?id=resist_and_e-beam_recipes)
+
+### Computational physics
+- [Understanding Molecular Simulations](http://www.cchem.berkeley.edu/chem195/index.html)
+> you will find functions and code samples in MATLAB that will help you get started in the world of molecular simulations.
 
 ### Physics Learning
 - [blog on Computational physics](https://compphys.go.ro/)
@@ -31,6 +32,8 @@ Building up...
 - [Modeling materials using density functional theory](http://kitchingroup.cheme.cmu.edu/dft-book/dft.html) by John Kitchin
 
 
+
+
 ## Language
 ### English
 - [Synonym](https://www.thesaurus.com/)
@@ -38,6 +41,10 @@ Building up...
 ## Software
 ### OOMMF
 - [Talk: Micromagnetics and OOMMF](https://www.spintalks.org/tutorials)
+
+### Journal and thesus
+- [PhD thesis in Catalunia Spain](https://www.tdx.cat/)
+- [PhD thesis in UAB](https://ddd.uab.cat/)
 
 ## Programming
 ### Matlab
