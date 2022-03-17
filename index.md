@@ -11,15 +11,19 @@ Building up...
 
 ### Experiments
 - [Photolithography and e-beam lithography recipes](https://nano.physics.leidenuniv.nl/dokuwiki/doku.php?id=resist_and_e-beam_recipes)
+- [Writing a lab report](https://www.jyu.fi/science/en/physics/studies/student-laboratory/writing-a-lab-report)
 
 ### Computational physics
 - [Understanding Molecular Simulations](http://www.cchem.berkeley.edu/chem195/index.html)
 > you will find functions and code samples in MATLAB that will help you get started in the world of molecular simulations.
+- [Nanonub](https://nanohub.org/)
 
 ### Physics Learning
 - [blog on Computational physics](https://compphys.go.ro/)
 - [MIT EE & CS lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 - [MIT Physics Lectures](https://ocw.mit.edu/courses/physics/) 
+- [Quantum Physics](https://www2.ph.ed.ac.uk/~gja/qp/) This is a course on Quantum Mechanics written and delivered by Prof. Graeme Ackland at the University of Edinburgh between 2006 and 2011.
+- []
 
 #### Quantum Field Theory
 - [Cambridge QFT by David Tong](https://www.damtp.cam.ac.uk/user/tong/qft.html)
@@ -42,9 +46,10 @@ Building up...
 ### OOMMF
 - [Talk: Micromagnetics and OOMMF](https://www.spintalks.org/tutorials)
 
-### Journal and thesus
+### Journal and thesis
 - [PhD thesis in Catalunia Spain](https://www.tdx.cat/)
 - [PhD thesis in UAB](https://ddd.uab.cat/)
+- [Cambridge University press](https://www.cambridge.org/)
 
 ## Programming
 ### Matlab
