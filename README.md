@@ -1,2 +1,2 @@
-# yuchen.github.io
-Dr. Yu Chen的个人主页
+# DoctorYuchen.github.io
+My homepage
