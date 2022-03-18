@@ -1,6 +1,6 @@
 # Quantum Garden/琅嬛福地
 
-Building up...
+[Building up...](https://github.com/DoctorYuChen/DoctorYuchen.github.io/edit/gh-pages/index.md)
 
 
 ## Interesting links
@@ -47,12 +47,9 @@ Building up...
 - [Talk: Micromagnetics and OOMMF](https://www.spintalks.org/tutorials)
 
 ### Journal and thesis
-**Paper**
--[APS Physics](https://www.aps.org/)
-**Thesis**
+- [APS Physics](https://www.aps.org/)
 - [PhD thesis in Catalunia Spain](https://www.tdx.cat/)
 - [PhD thesis in UAB](https://ddd.uab.cat/)
-**Book**
 - [Cambridge University Press](https://www.cambridge.org/)
 
 ### Scholar webpage
