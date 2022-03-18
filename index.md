@@ -80,7 +80,7 @@
 - [Prof. Xiaodong Yang](https://web.mst.edu/~yangxia/index.html) Nanoscale Optics Laboratory, Prof. Xiaodong Yang, Department of Mechanical and Aerospace Engineering,Missouri University of Science and Technology
 
 ### Looking for a job
-- [Jobs in Science](https://jobs.sciencecareers.org/）
+- [Jobs in Science](https://jobs.sciencecareers.org/)
 
 
 ## Software/Code
