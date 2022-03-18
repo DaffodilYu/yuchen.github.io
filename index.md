@@ -47,9 +47,13 @@ Building up...
 - [Talk: Micromagnetics and OOMMF](https://www.spintalks.org/tutorials)
 
 ### Journal and thesis
+**Paper**
+-[APS Physics](https://www.aps.org/)
+**Thesis**
 - [PhD thesis in Catalunia Spain](https://www.tdx.cat/)
 - [PhD thesis in UAB](https://ddd.uab.cat/)
-- [Cambridge University press](https://www.cambridge.org/)
+**Book**
+- [Cambridge University Press](https://www.cambridge.org/)
 
 ### Scholar webpage
 - [Gervasi Herranz](https://gervasi-herranz.blog/)
@@ -80,6 +84,8 @@ Save the figure command.
 expGraph type:=png path:="C:\xx\xx\xx\xx" filename:="TEST" ;
 ```
 ### Igor
+
+### Latex
 
 ### Python
 
