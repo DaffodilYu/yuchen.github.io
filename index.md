@@ -54,10 +54,13 @@
 - [Talk: Micromagnetics and OOMMF](https://www.spintalks.org/tutorials)
 
 ### Journal and thesis
+#### Journal
 - [APS Physics](https://www.aps.org/)
+- [Applied electronic materials](https://pubs.acs.org/journal/aaembp) and [author guidelines](https://publish.acs.org/publish/author_guidelines?coden=aaembp#preparing_graphics)
 - [PhD thesis in Catalunia Spain](https://www.tdx.cat/)
 - [PhD thesis in UAB](https://ddd.uab.cat/)
 - [Open Access Theses and Dissertations](https://oatd.org/)
+- [Book free download](https://b-ok.org/) Just for checking, please respect for the copyright.
 - [Cambridge University Press](https://www.cambridge.org/)
 - [academia](https://www.academia.edu/) Here you can download some papers and books.
 
