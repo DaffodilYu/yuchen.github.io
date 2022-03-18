@@ -106,6 +106,10 @@ Save the figure using Labtalk script
 ```Labtalk
 expGraph type:=png path:="C:\xx\xx\xx\xx" filename:="TEST" ;
 ```
+**Figure size**
+
+Single column(like ACS maximum 85mm):  42 mm x 40 mm 
+
 ### Adobe Illustrator
 
 
