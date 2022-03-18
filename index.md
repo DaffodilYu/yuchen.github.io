@@ -57,7 +57,7 @@ Building up...
 
 ### Scholar webpage
 - [Gervasi Herranz](https://gervasi-herranz.blog/)
-- [Shanshan wang](https://shannwang.github.io/shanshanwang/index.html)
+- [Shanshan Wang](https://shannwang.github.io/shanshanwang/index.html)
 > Her research interests: Econophysics, Market Microstructure, Price Impact, Complex Systems, Traffic Networks, Data Science, Machine Learning
 
 ## Software/Code
