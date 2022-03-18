@@ -102,7 +102,7 @@ image(B);
 colormap(gray(255));
 ```
 ### Originlab
-Save the figure command.
+Save the figure using Labtalk script
 ```Labtalk
 expGraph type:=png path:="C:\xx\xx\xx\xx" filename:="TEST" ;
 ```
