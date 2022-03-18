@@ -18,11 +18,18 @@
 > you will find functions and code samples in MATLAB that will help you get started in the world of molecular simulations.
 - [Nanonub](https://nanohub.org/)
 
+### Solid Physics
+- [Crystal structures](https://www.tulane.edu/~sanelson/eens211/index.html#Announcements) Prof. Stephen A. Nelson. There are many PDFs on the crystal structures.
+- [Coordination Chemistry](http://wwwchem.uwimona.edu.jm/courses/IC10Kout.html) by Prof. R.J. Lancashire.
+- [Dynamic periodic table](https://ptable.com/#Properties)
+
 ### Physics Learning
 - [blog on Computational physics](https://compphys.go.ro/)
 - [MIT EE & CS lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 - [MIT Physics Lectures](https://ocw.mit.edu/courses/physics/) 
 - [Quantum Physics](https://www2.ph.ed.ac.uk/~gja/qp/) This is a course on Quantum Mechanics written and delivered by Prof. Graeme Ackland at the University of Edinburgh between 2006 and 2011.
+- [Physics library](https://phys.libretexts.org/)
+> This Living Library is a principal hub of the LibreTexts project, which is a multi-institutional collaborative venture to develop the next generation of open-access texts to improve postsecondary education at all levels of higher learning.
 
 
 #### Quantum Field Theory
@@ -32,11 +39,11 @@
 - [Quantum Condensed Matter Field Theory by Ben Simons](http://www.tcm.phy.cam.ac.uk/~bds10/tp3.html)
 - [QFT by Jacob Linder](https://sites.google.com/view/lindergroup/qft?authuser=0)
 
-#### density functional theory
+#### Density functional theory
 - [Modeling materials using density functional theory](http://kitchingroup.cheme.cmu.edu/dft-book/dft.html) by John Kitchin
 
-
-
+### Science for Public
+- [Chemical for kids](http://www.chem4kids.com/index.html)
 
 ### Language
 #### English
@@ -50,18 +57,27 @@
 - [APS Physics](https://www.aps.org/)
 - [PhD thesis in Catalunia Spain](https://www.tdx.cat/)
 - [PhD thesis in UAB](https://ddd.uab.cat/)
+- [Open Access Theses and Dissertations](https://oatd.org/)
 - [Cambridge University Press](https://www.cambridge.org/)
 - [academia](https://www.academia.edu/) Here you can download some papers and books.
+
+### Data Science and machine learning
+- [Towards Data Science](https://towardsdatascience.com/)
+- [Christopher Olah](http://colah.github.io/) He is working on reverse engineering artificial neural networks into human understandable algorithms.
+- [机器之心](https://cloud.tencent.com/developer/column/2713)
+- [Synced-英文机器之心](https://syncedreview.com/)
 
 ### Scholar webpage
 - [Gervasi Herranz](https://gervasi-herranz.blog/)
 > Physicist, Condensed Matter & Photonics at ICMAB-CSIC, Barcelona
 > Research interests:(i) [Nanophotonics](https://gherranz.wordpress.com/2017/08/25/multifunctional-photonics/). (ii) [Oxide Quantum Wells](https://gherranz.wordpress.com/2017/08/25/2d-electronic-systems-the-case-of-laalo3srtio3/).
 - [Shanshan Wang](https://shannwang.github.io/shanshanwang/index.html)
+- [Olivier Fruchart](http://fruchart.eu/olivier/links/links.html) He is a senior scientist and deputy director at SPINTEC Laboratory, Grenoble, France. SPINTEC is devoted to spin electronics. On his website there are many intereting links.
 > Her research interests: Econophysics, Market Microstructure, Price Impact, Complex Systems, Traffic Networks, Data Science, Machine Learning
 - [Prof. Xiaodong Yang](https://web.mst.edu/~yangxia/index.html) Nanoscale Optics Laboratory, Prof. Xiaodong Yang, Department of Mechanical and Aerospace Engineering,Missouri University of Science and Technology
-> Our research in nanoscale optics and photonics lies at the interface of engineering, physics, applied physics, and materials science. The research efforts in our lab focus on design, fabrication and characterization of engineered photonic, plasmonic, metamaterial, metasurface, and 2D material nanostructures for understanding optical physics at the nanoscale and building functional optical nanodevices used for many exciting applications such as nanoelectromechanical system, optical sensing, optical communication and solar/thermal energy harvesting.
 
+### Looking for a job
+- [Jobs in Science](https://jobs.sciencecareers.org/）
 
 
 ## Software/Code
