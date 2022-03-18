@@ -51,11 +51,18 @@
 - [PhD thesis in Catalunia Spain](https://www.tdx.cat/)
 - [PhD thesis in UAB](https://ddd.uab.cat/)
 - [Cambridge University Press](https://www.cambridge.org/)
+- [academia](https://www.academia.edu/) Here you can download some papers and books.
 
 ### Scholar webpage
 - [Gervasi Herranz](https://gervasi-herranz.blog/)
+> Physicist, Condensed Matter & Photonics at ICMAB-CSIC, Barcelona
+> Research interests:(i) [Nanophotonics](https://gherranz.wordpress.com/2017/08/25/multifunctional-photonics/). (ii) [Oxide Quantum Wells](https://gherranz.wordpress.com/2017/08/25/2d-electronic-systems-the-case-of-laalo3srtio3/).
 - [Shanshan Wang](https://shannwang.github.io/shanshanwang/index.html)
 > Her research interests: Econophysics, Market Microstructure, Price Impact, Complex Systems, Traffic Networks, Data Science, Machine Learning
+- [Prof. Xiaodong Yang](https://web.mst.edu/~yangxia/index.html) Nanoscale Optics Laboratory, Prof. Xiaodong Yang, Department of Mechanical and Aerospace Engineering,Missouri University of Science and Technology
+> Our research in nanoscale optics and photonics lies at the interface of engineering, physics, applied physics, and materials science. The research efforts in our lab focus on design, fabrication and characterization of engineered photonic, plasmonic, metamaterial, metasurface, and 2D material nanostructures for understanding optical physics at the nanoscale and building functional optical nanodevices used for many exciting applications such as nanoelectromechanical system, optical sensing, optical communication and solar/thermal energy harvesting.
+
+
 
 ## Software/Code
 ### Matlab
@@ -86,6 +93,10 @@ expGraph type:=png path:="C:\xx\xx\xx\xx" filename:="TEST" ;
 
 ### Python
 
+
+## Reading
+1. [Productivity Books](https://www.lifehack.org/articles/productivity/30-best-books-productivity-you-should-read.html)
+2. 
 ## Publications
 1. Y. Chen, Y. Lechaux, B. Casals, B. Guillet, A. Minj, J. Gázquez, L. Méchin, and G. Herranz, Photoinduced Persistent Electron Accumulation and Depletion in LaAlO3/SrTiO3 Quantum Wells, [**Phys. Rev. Lett.** 2020, 124, 246804](https://doi.org/10.1103/PhysRevLett.124.246804).
 2. Y. Chen, B. Casals, and G. Herranz, Plasticity of Persistent Photoconductance of Amorphous LaAlO3/SrTiO3 Interfaces under Varying Illumination Conditions, ACS Appl. Electron. Mater. 1, 810 (2019).
