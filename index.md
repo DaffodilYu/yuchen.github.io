@@ -1,3 +1,6 @@
+layout: page
+title: "main page"
+
 # Quantum Garden/琅嬛福地
 
 [Building up...](https://github.com/DoctorYuChen/DoctorYuchen.github.io/edit/gh-pages/index.md)
