@@ -48,6 +48,9 @@
 - [QFT by Jacob Linder](https://sites.google.com/view/lindergroup/qft?authuser=0)
 - [From Griffiths to Peskin: a lit review for beginners](https://fliptomato.wordpress.com/2006/12/30/from-griffiths-to-peskin-a-lit-review-for-beginners/)
 
+#### Group theory
+- [California Institute of Technology Prof. Xie Chen](https://www.its.caltech.edu/~xcchen/courses/physics129.html)
+
 #### Density functional theory
 - [Modeling materials using density functional theory](http://kitchingroup.cheme.cmu.edu/dft-book/dft.html) by John Kitchin
 
