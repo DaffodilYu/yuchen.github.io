@@ -83,7 +83,7 @@ author:
   name             : "Dr. Yu Chen"
   avatar           : "profile.png"
   bio              : "Postdoc in CNR-SPIN, expert in oxide 2DEGs"
-  location         : "LNapoli, Italy"
+  location         : "Napoli, Italy"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=B1ElYAIAAAAJ&scilu=&scisig=AMD79ooAAAAAYFJ7UoE9HRoR-DcFw4NJYBOj-W3p9Rpm&gmla=AJsN-F5uFZCjEaDFW-Zprc0n3E51k12_AVm4Z1RnJlbL3Gb34i7Yun5fTEC0Abq9kTDDJOsu4SFmNoabKdT0Lx9kbqdusyQgtugdQKxIV3xW-b3F8M5h9rI&sciund=4348636360417567149"
@@ -310,4 +310,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
