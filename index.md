@@ -50,6 +50,16 @@
 
 #### Group theory
 - [California Institute of Technology Prof. Xie Chen](https://www.its.caltech.edu/~xcchen/courses/physics129.html)
+> Recommended Text Book
+> A. Zee, Groups, Group Theory in a Nutshell for Physicists, Princeton University Press, 2016.
+> P. Ramond, Group Theory: A Physicist’s Survey, Cambridge Univ. Press, 2010.
+> H. F. Jones, Groups, Representations, and Physics, Institute of Physics Publishing, 2nd ed.,
+> J. F. Cornwell, Group Theory in Physics: An Introduction, Academic Press, 1997.
+> Wu-Ki Tung, Group Theory in Physics, World Scientific, 1985.
+> H. Georgi, Lie Algebras in Particle Physics, Benjamin, 1982.
+> E. P. Wigner, Group Theory, Academic Press, 1959.
+> J. Talman, Special Functions, a Group-Theoretic Approach, Benjamin, 1968.
+> M. Tinkham, Group Theory and Quantum Mechanics, 1964.
 
 #### Density functional theory
 - [Modeling materials using density functional theory](http://kitchingroup.cheme.cmu.edu/dft-book/dft.html) by John Kitchin
