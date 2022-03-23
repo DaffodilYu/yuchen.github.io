@@ -1,7 +1,3 @@
-
-title: Quantum Garden/琅寰福地
-description: Sharing my story, life, and research...
-author: Dr. Yu Chen
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -11,13 +7,13 @@ author: Dr. Yu Chen
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yu Chen"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Yu Chen"
-description              : &description "Sharing my story, life, and research..."
-url                      : https://DoctorYuChen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "DoctorYuChen.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -76,24 +72,23 @@ social:
 
 
 # Analytics
-# analytics:
-#   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-#   google:
-#     tracking_id          :
+analytics:
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Yu Chen"
-  avatar           : "profile.jpg"
-  bio              : "Postdoc in CNR-SPIN, expert in oxide 2DEGs"
-  location         : "Napoli, Italy"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  pubmed           : #""
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=B1ElYAIAAAAJ&scilu=&scisig=AMD79ooAAAAAYFJ7UoE9HRoR-DcFw4NJYBOj-W3p9Rpm&gmla=AJsN-F5uFZCjEaDFW-Zprc0n3E51k12_AVm4Z1RnJlbL3Gb34i7Yun5fTEC0Abq9kTDDJOsu4SFmNoabKdT0Lx9kbqdusyQgtugdQKxIV3xW-b3F8M5h9rI&sciund=4348636360417567149"
-  email            : "Yu.Chen@spin.cnr.it"
-  researchgate     : ""
-  publons          : ""
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,25 +96,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "doctoryuchen"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #""
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : ""
-  orcid            : ""
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : #""
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
-  youtube          : ""
+  youtube          :
   wikipedia        :
+
 
 # Reading Files
 include:
@@ -179,24 +175,20 @@ kramdown:
 
 # Collections
 collections:
-  # teaching:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # publications:
-  #   output: true
-  #   permalink: /:collection/:path/
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  # talks:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # software:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # people:
-  #   output: true
-  #   permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
+
 # Defaults
 defaults:
   # _posts
@@ -252,24 +244,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _software
-  - scope:
-      path: ""
-      type: software
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _people
-  - scope:
-      path: ""
-      type: people
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -280,8 +255,8 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-# timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Australia/Sydney # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
 
 # Plugins
 plugins:
@@ -334,5 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-cayman
