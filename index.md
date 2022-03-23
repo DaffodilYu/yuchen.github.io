@@ -33,7 +33,7 @@
 ### Physics Learning
 - [blog on Computational physics](https://compphys.go.ro/)
 - [MIT EE & CS lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
-- [MIT Physics Lectures](https://ocw.mit.edu/courses/physics/) 
+- [MIT Physics Lectures](https://ocw.mit.edu/courses/physics/)
 - [Quantum Physics](https://www2.ph.ed.ac.uk/~gja/qp/) This is a course on Quantum Mechanics written and delivered by Prof. Graeme Ackland at the University of Edinburgh between 2006 and 2011.
 - [Physics library](https://phys.libretexts.org/)
 > This Living Library is a principal hub of the LibreTexts project, which is a multi-institutional collaborative venture to develop the next generation of open-access texts to improve postsecondary education at all levels of higher learning.
@@ -113,7 +113,7 @@
 
 ## Software/Code
 ### Matlab
-test： Double-slit interference 
+test： Double-slit interference
 ```matlab
 clear all
 ym = 1.25; y = linspace(-ym,ym,101);
@@ -136,7 +136,7 @@ expGraph type:=png path:="C:\xx\xx\xx\xx" filename:="TEST" ;
 ```
 **Figure size**
 
-Single column(like ACS maximum 85mm):  42 mm x 40 mm 
+Single column(like ACS maximum 85mm):  42 mm x 40 mm
 
 ### Adobe Illustrator
 
@@ -150,7 +150,7 @@ Single column(like ACS maximum 85mm):  42 mm x 40 mm
 
 ## Reading
 1. [Productivity Books](https://www.lifehack.org/articles/productivity/30-best-books-productivity-you-should-read.html)
-2. 
+2.
 ## Publications
 1. Y. Chen, Y. Lechaux, B. Casals, B. Guillet, A. Minj, J. Gázquez, L. Méchin, and G. Herranz, Photoinduced Persistent Electron Accumulation and Depletion in LaAlO3/SrTiO3 Quantum Wells, [**Phys. Rev. Lett.** 2020, 124, 246804](https://doi.org/10.1103/PhysRevLett.124.246804).
 2. Y. Chen, B. Casals, and G. Herranz, Plasticity of Persistent Photoconductance of Amorphous LaAlO3/SrTiO3 Interfaces under Varying Illumination Conditions, ACS Appl. Electron. Mater. 1, 810 (2019).
@@ -322,7 +322,7 @@ Single column(like ACS maximum 85mm):  42 mm x 40 mm
 
 
 
-### 
+###
 
 
 
@@ -339,7 +339,3 @@ Single column(like ACS maximum 85mm):  42 mm x 40 mm
 > 欧阳修（1007年—1072年），唐宋八大家之一，字永叔，号醉翁，晚号六一居士，庐陵（今江西吉安）人。
 
 虽然，‘翠被华灯，夜夜空相向。’ 很像我长久以来的处境，但我更很喜欢月明正在梨花上这句。
-
-
-
-
