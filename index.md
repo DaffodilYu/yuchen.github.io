@@ -106,7 +106,7 @@
 > Her research interests: Econophysics, Market Microstructure, Price Impact, Complex Systems, Traffic Networks, Data Science, Machine Learning
 - [Olivier Fruchart](http://fruchart.eu/olivier/links/links.html) He is a senior scientist and deputy director at SPINTEC Laboratory, Grenoble, France. SPINTEC is devoted to spin electronics. On his website there are many intereting links.
 - [Prof. Xiaodong Yang](https://web.mst.edu/~yangxia/index.html) Nanoscale Optics Laboratory, Prof. Xiaodong Yang, Department of Mechanical and Aerospace Engineering,Missouri University of Science and Technology
-
+- [Xiaogang Wen - MIT](https://xgwen.mit.edu/)
 ### Looking for a job
 - [Jobs in Science](https://jobs.sciencecareers.org/)
 
