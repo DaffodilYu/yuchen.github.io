@@ -1,0 +1,29 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Blog"
+    url: /year-archive/
+
+  - title: "Coding"
+    url: /Coding/
+
+  - title: "Poem"
+    url: /poem/
+
+  - title: "Useful links"
+    url: /links/
+
+
+
+
+
+  # - title: "CV"
+  #   url: /cv/
+  #
+  # - title: "Software"
+  #   url: /software/
+
+  # - title: "Group"
+  #   url: /people/
