@@ -1,7 +1,7 @@
 ---
 title: "词牌格式"
-collection: talk
-type: "talk"
+collection: poem
+type: "poem"
 permalink: /peom/PeomFormat
 ---
 ## 卜算子
