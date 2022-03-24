@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yu Chen | Quantum Garden"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Yu Chen"
-description              : &description "Sharing my story, life, and research..."
-url                      : https://DoctorYuChen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "DoctorYuChen/DoctorYuChen.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Yu Chen"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Postdoc in CNR-SPIN, expert in oxide 2DEGs"
-  location         : "Napoli, Italy"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=B1ElYAIAAAAJ&scilu=&scisig=AMD79ooAAAAAYFJ7UoE9HRoR-DcFw4NJYBOj-W3p9Rpm&gmla=AJsN-F5uFZCjEaDFW-Zprc0n3E51k12_AVm4Z1RnJlbL3Gb34i7Yun5fTEC0Abq9kTDDJOsu4SFmNoabKdT0Lx9kbqdusyQgtugdQKxIV3xW-b3F8M5h9rI&sciund=4348636360417567149"
-  email            : "Yu.Chen@spin.cnr.it"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "DoctorYuChen"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  coding:
+  teaching:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -184,10 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  poem:
-    output: true
-    permalink: /:collection/:path/
-  post:
+  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -215,7 +212,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: coding
+      type: teaching
     values:
       layout: single
       author_profile: true
@@ -242,7 +239,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: poem
+      type: talks
     values:
       layout: talk
       author_profile: true
@@ -312,5 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-# theme: jekyll-theme-cayman
