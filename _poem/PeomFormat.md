@@ -1,6 +1,6 @@
 ---
 title: "词牌格式"
-collection: poem
+collection: talk
 type: "talk"
 permalink: /peom/PeomFormat
 ---
