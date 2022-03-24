@@ -241,7 +241,7 @@ defaults:
       path: ""
       type: poem
     values:
-      layout: poem
+      layout: talk
       author_profile: true
       share: true
 
