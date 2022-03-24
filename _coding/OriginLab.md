@@ -1,7 +1,7 @@
 ---
 title: "Matlab"
 collection: coding
-permalink: /coding/matlab
+permalink: /coding/originlab
 type: "coding"
 date: 2021-03-24
 ---
