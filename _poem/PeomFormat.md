@@ -2,7 +2,7 @@
 title: "词牌格式"
 collection: poem
 type: "poem"
-permalink: /peom/PeomFormat
+permalink: /peom/PeomFormat.md
 ---
 ## 卜算子
 
