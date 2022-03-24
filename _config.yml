@@ -212,7 +212,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: coding
     values:
       layout: single
       author_profile: true
@@ -239,9 +239,9 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: poem
     values:
-      layout: talk
+      layout: poem
       author_profile: true
       share: true
 

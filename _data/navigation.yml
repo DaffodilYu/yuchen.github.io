@@ -6,13 +6,13 @@ main:
   - title: "Blog"
     url: /posts/
 
-  - title: "Programming"
+  - title: "Software"
     url: /Coding/
 
   - title: "Poem"
     url: /poem/
 
-  - title: "Useful links"
+  - title: "links"
     url: /links/
 
   - title: "Portfolio"
