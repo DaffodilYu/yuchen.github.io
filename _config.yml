@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  coding:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -184,7 +184,10 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  poem:
+    output: true
+    permalink: /:collection/:path/
+  post:
     output: true
     permalink: /:collection/:path/
 
