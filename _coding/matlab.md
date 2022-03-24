@@ -1,7 +1,8 @@
 ---
 title: "Matlab"
 collection: coding
-permalink: /teaching/matlab
+type: "coding"
+permalink: /coding/matlab
 date: 2021-03-24
 ---
 
