@@ -117,26 +117,8 @@ $g_ih_αg_jh_β = g_kh_γ$    $f_i f_j = f_k$
 
 The class structure of product groups
 
-**2.9 The group rearrangement theorem**
+**The group rearrangement theorem**
 
+**Linear Algebra and Vector** **Spaces**
 
-
-### Ch3 **Linear Algebra and Vector** **Spaces**
-
-#### **3.1** **Linear** **vector** **space**
-
-linearly independent
-
-We denote the dimension by the symbol s. (N.B . The dimension is not the number of vectors in L.)
-
-orthogonality
-
-The positive square root $(r, r) ^\frac{1}{2}$ is called the 'norm' (or length) of the vector r.
-
-Kronecker delta
-
-A set of vectors which are each normalised and mutually orthogonal is called an **'orthonormal'** set.
-
-a 'subspace' $L_1$
-
-'orthogonal complement' to $L_1$
+**Linear** **vector** **space**
