@@ -27,7 +27,7 @@ Y. Chen, Y. Lechaux, B. Casals, B. Guillet, A. Minj, J. Gázquez, L. Méchin, an
 * GUI programming: I also use Originlab to process the data for the interaction with colleagues and supervisor. Ignor is very interesting. We use the Ignor Pro to cope with the spectroscopy data, in particular, ARPES data.
 * Figure: Adobe illustration is very powerful to draw the 'fake' 3D figures, but it is not free. For 2D figures, [Inksapce](http://tavmjong.free.fr/INKSCAPE/MANUAL_v16/html/index.html) is not a bad choice.
 
-Learning
+[Learning](https://doctoryuchen.github.io/learning/)
 ======
 I am learning some topics in the physics and mathematics. I will update the learning note from time to time.
 
