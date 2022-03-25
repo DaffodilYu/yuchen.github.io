@@ -1,6 +1,6 @@
 ---
 title: "Teaching experience 1"
-collection: teaching
+collection: learning
 type: "Undergraduate course"
 permalink: /teaching/2022-spring-Learning-1
 venue: "University 1, Department"
