@@ -1,5 +1,5 @@
 ---
-title: "Cmd Shell"
+title: "CMD Shell"
 collection: coding
 type: "Cmd Shell "
 permalink: /coding/cmd
