@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: rgba(46,89,167,0.8);  // $background-color;
+  background:  rgba(169,190,123,0.8); //rgba(46,89,167,0.8);  // $background-color;
 
   a {
     display: block;
@@ -197,7 +197,7 @@
     border: 0;
     outline: none;
     background-color: $primary-color;  // rgba(169,190,123,0.8);
-    color: rgba(169,190,123,0.8);   // #fff; rgba(46,89,167,0.8);
+    color: #fff; // rgba(46,89,167,0.8); rgba(169,190,123,0.8);
     cursor: pointer;
   }
 
