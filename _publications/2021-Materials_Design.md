@@ -1,0 +1,12 @@
+---
+title: "Mechanical, magnetic and magnetostrictive properties of porous Fe-Ga films prepared by electrodeposition"
+collection: publications
+permalink: /publication/2021-Materials_Design
+excerpt: "Fe-Ga films with variable composition and porosity levels are electro deposited.Both hardness and Young’s modulus decrease as the porosity degree increases.Highly tunable magnetic properties are achieved by adjusting the microstructure.Macroporous films show larger magnetic-field-induced crystal lattice deformation.<br/><img src='https://ars.els-cdn.com/content/image/1-s2.0-S0264127521004688-ga1.jpg'>"
+date: 2021-10-01
+venue: 'Materials and Design'
+paperurl: 'https://doi.org/10.1016/j.matdes.2021.109915'
+citation: 'A. Nicolenco, Y. Chen, N. Tsyntsaru, H. Cesiulis, E. Pellicer, and J. Sort, Mechanical, Magnetic and Magnetostrictive Properties of Porous Fe-Ga Films Prepared by Electrodeposition, Mater. Des. 208, 109915 (2021).'
+---
+Magnetostriction, known as the ability of magnetic materials to expand or contract in response to magnetic field, is a key property of Fe-Ga alloys exploited in various types of transducers. Usually, thin films of Fe-Ga deposited on rigid substrates suffer from a clamping effect that hinders the propagation of strain. Herein, Fe-Ga films with macroporous, not fully constrained, geometry are prepared by electrodeposition on metallized silicon substrates templated with sub-micrometer-sized polystyrene spheres. For comparison, fully-dense and inherently nanoporous films are prepared by sputtering and electrodeposition, respectively. The electrodeposition mechanism is discussed in terms of electrochemically active species distribution and partial current densities. The composition of the Fe-Ga films has been tuned (2–40 at.% Ga) by varying the electrodeposition parameters. A complete assessment of the nanomechanical and magnetic properties of the films with variable composition and porosity has been performed for an optimized performance. The magnetostriction has been studied by X-ray diffraction applying an in-situ magnetic field. The results demonstrate a larger magnetic-field-induced crystal deformation in templated (macroporous) films compared to the non-templated and fully-dense counterparts. The observed effects in porous Fe-Ga films are very appealing for the design of various strain-engineered nanomaterials, e.g., energy transducers or magnetoelectric composites.
+<br/><img src='https://ars.els-cdn.com/content/image/1-s2.0-S0264127521004688-gr4.jpg'>"
