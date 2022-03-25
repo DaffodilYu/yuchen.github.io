@@ -3,7 +3,7 @@ title: "Learning 1"
 collection: teaching
 type: "Quantum Mechanics"
 permalink: /teaching/2022-spring-Learning-1
-venue: " University of Naples "Federico II", Department of Physics"
+venue: " University of Naples "Federico II", Physics"
 date: 2022-03-25
 location: "Napoli, Italy"
 ---
