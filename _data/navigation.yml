@@ -17,8 +17,8 @@ main:
   - title: "Blog/Poem"
     url: /year-archive/
 
-  - title: "CV"
-    url: /cv/
-
   - title: "Links"
     url: /links/
+
+  - title: "CV"
+    url: /cv/
