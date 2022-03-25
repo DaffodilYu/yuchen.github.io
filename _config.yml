@@ -185,9 +185,11 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: false
+    permalink: /:collection/:path/
+  Coding:
     output: true
     permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -237,13 +239,22 @@ defaults:
       share: true
       comment: true
   # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
+
   - scope:
       path: ""
-      type: talks
+      type: coding
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+
 
 # Sass/SCSS
 sass:
