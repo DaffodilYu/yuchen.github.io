@@ -10,7 +10,7 @@ location: "Napoli, Italy"
 
 
 test： Double-slit interference
-```matlab
+`matlab
 clear all
 ym = 1.25; y = linspace(-ym,ym,101);
 d = 2; z = 1000; lambda = 5e-4;
@@ -24,4 +24,4 @@ subplot(2,1,2)
 B = I*255/5;
 image(B);
 colormap(gray(255));
-```
+`
