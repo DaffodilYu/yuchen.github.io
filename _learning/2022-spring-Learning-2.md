@@ -2,7 +2,7 @@
 title: "Learning 2"
 collection: learning
 type: "Undergraduate course"
-permalink: /learning/2022-spring-Learning-1
+permalink: /learning/2022-spring-Learning-2
 venue: " University of Naples "Federico II", Department of Physics"
 date: 2022-03-25
 location: "Napoli, Italy"
