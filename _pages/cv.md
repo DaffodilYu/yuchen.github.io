@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "My Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -61,7 +61,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<! Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -75,4 +75,4 @@ Learning
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams >
+* Currently signed in to 43 different slack teams -->
