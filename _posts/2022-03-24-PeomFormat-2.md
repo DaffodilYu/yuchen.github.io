@@ -1,9 +1,14 @@
 ---
 title: "词牌格式"
-collection: poem
-type: "poem"
-permalink: /peom/PeomFormat.md
+date: 2022-03-25
+permalink: /2022-03-24-PeomFormat-2
+tags:
+  - 摘录  # Topic  
+  - 诗词        # note class
+  - 格律      # content
 ---
+常用的几种词牌名
+
 ## 卜算子
 
 正体，双调四十四字，前后段各四句、两仄韵。以苏轼《卜算子·黄州定慧院寓居作》为代表。此若石词之多押两韵，徐、黄、张、杜四词之添字，皆变体也。 苏词别首前段第二句“长忆吴山好”，“长”字平声。
