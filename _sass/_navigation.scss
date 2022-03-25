@@ -136,7 +136,7 @@
     border-radius: $border-radius;
 
     &:hover {
-      color: rgba(46,89,167,0.8);  //$link-color-hover; 
+      color: rgba(46,89,167,0.8);  //$link-color-hover;
     }
 
     &:first-child {
@@ -151,7 +151,7 @@
     }
 
     &.disabled {
-      color: mix(#fff, $gray, 50%);  //mix(#fff, $gray, 75%);
+      color:  rgba(46,89,167,0.8);  //mix(#fff, $gray, 50%);  //mix(#fff, $gray, 75%);
       pointer-events: none;
       cursor: not-allowed;
     }
