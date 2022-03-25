@@ -1,10 +1,10 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Quantum Mechanics"
+type: "Undergraduate course"
 permalink: /teaching/2022-spring-Learning-1
-venue: " University of Naples "Federico II", Physics"
-date: 2022-03-25
+venue: "University 1, Department"
+date: 2014-01-01
 location: "Napoli, Italy"
 ---
 title: "Teaching experience 1"
