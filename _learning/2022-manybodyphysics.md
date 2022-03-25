@@ -1,8 +1,8 @@
 ---
-title: "Learning 2"
+title: "Many-body physics"
 collection: teaching
 type: "Many-body physics"
-permalink: /learning/2022-spring-Learning-2
+permalink: /2022-manybodyphysics
 venue: " University of Naples &quot Federico II &quot, Department of Physics"
 date: 2022-03-25
 location: "Napoli, Italy"
