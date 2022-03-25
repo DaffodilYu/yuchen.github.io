@@ -9,7 +9,7 @@ location: "Napoli, Italy"
 ---
 
 Save the figure using Labtalk script
-```Labtalk
+```C
 expGraph type:=png path:="C:\xx\xx\xx\xx" filename:="TEST" ;
 ```
 **Figure size**
