@@ -9,7 +9,6 @@ location: "Napoli, Italy"
 ---
 
 
-### test
 test： Double-slit interference
 ```matlab
 clear all
