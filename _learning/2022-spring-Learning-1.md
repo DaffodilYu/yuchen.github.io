@@ -1,11 +1,11 @@
 ---
-title: "Learning 1"
-collection: learning
+title: "Teaching experience 1"
+collection: teaching
 type: "Undergraduate course"
-permalink: /learning/2022-spring-Learning-1
-venue: " University of Naples "Federico II", CNR-SPIN"
-date: 2022-03-25
-location: "Napoli, Italy"
+permalink: /teaching/2022-spring-Learning-1
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
 This is a description of a learning experience. You can use markdown like any other post.
