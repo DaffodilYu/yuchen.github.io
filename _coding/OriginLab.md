@@ -1,9 +1,11 @@
 ---
-title: "Matlab"
+title: "Originlab"
 collection: coding
+type: "originlab"
 permalink: /coding/originlab
-type: "coding"
-date: 2021-03-24
+venue: " University of Naples &quot Federico II &quot, Department of Physics"
+date: 2022-03-25
+location: "Napoli, Italy"
 ---
 
 Save the figure using Labtalk script

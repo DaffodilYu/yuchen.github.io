@@ -1,10 +1,13 @@
 ---
 title: "Matlab"
 collection: coding
-type: "coding"
+type: "matlab"
 permalink: /coding/matlab
-date: 2021-03-24
+venue: " University of Naples &quot Federico II &quot, Department of Physics"
+date: 2022-03-25
+location: "Napoli, Italy"
 ---
+
 
 ### test
 test： Double-slit interference
