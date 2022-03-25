@@ -1,6 +1,6 @@
 ---
 title: "Teaching experience 1"
-collection: learning
+collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-spring-Learning-1
 venue: " University of Naples "Federico II", Department of Physics-CNR-SPIN"

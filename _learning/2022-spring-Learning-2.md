@@ -1,6 +1,6 @@
 ---
 title: "Learning 2"
-collection: learning
+collection: teaching
 type: "Undergraduate course"
 permalink: /learning/2022-spring-Learning-2
 venue: " University of Naples "Federico II", Department of Physics"
