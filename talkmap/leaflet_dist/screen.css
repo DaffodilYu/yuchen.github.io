@@ -1,7 +1,7 @@
 
 	#map {
-		width: 800px; 
-		height: 600px; 
+		width: 800px;
+		height: 600px;
 		border: 1px solid #ccc;
 	}
 
@@ -15,8 +15,8 @@
 	    height: 20px;
 	    margin-top: -20px;
 	    margin-left: -100px;
-	    background-color: #fff;
-	    background-color: rgba(255, 255, 255, 0.7);
+	    background-color: #fff;  /* #A9BE7B  #fff */
+	    background-color: rgba(169,190,123 0.7);  /* (255, 255, 255, 0.7)*/
 	    border-radius: 4px;
 	    padding: 2px;
 	}
@@ -27,4 +27,3 @@
 	    background-color: #76A6FC;
 	    border-radius: 4px;
 	}
-        
