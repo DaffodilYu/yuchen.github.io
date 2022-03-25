@@ -10,10 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-Scientific profile
-======
-It was stated: “the interface is the device”. This sharp and precise phrase coined by the Nobel laureate Herbet Kroemer, practically inspired and formed the basis of my scientific life.  Interface is a fertile playground where the symmetry breaking introduces emerging phenomena. Indeed, the complex physics emerging at the strongly correlated oxide interface has captured my main attention. As Researcher in Condensed Matter Physics, I not only deal with experiments, but also enjoy studying theoretical models of the many-particle physics. Passionate and curious I can easily use several instruments to realize self-designed experiments, as well as the programming language.  
-
 
 Education
 ======
