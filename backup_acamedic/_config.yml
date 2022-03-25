@@ -212,7 +212,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _learning
   - scope:
       path: ""
       type: coding

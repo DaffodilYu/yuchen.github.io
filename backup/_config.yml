@@ -179,7 +179,7 @@ kramdown:
 
 # Collections
 collections:
-  # teaching:
+  # learning:
   #   output: true
   #   permalink: /:collection/:path/
   # publications:
@@ -217,7 +217,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _learning
   - scope:
       path: ""
       type: Coding
