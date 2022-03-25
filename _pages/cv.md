@@ -9,51 +9,70 @@ redirect_from:
 
 {% include base_path %}
 
+
+Scientific profile
+======
+It was stated: “the interface is the device”. This sharp and precise phrase coined by the Nobel laureate Herbet Kroemer, practically inspired and formed the basis of my scientific life.  Interface is a fertile playground where the symmetry breaking introduces emerging phenomena. Indeed, the complex physics emerging at the strongly correlated oxide interface has captured my main attention. As Researcher in Condensed Matter Physics, I not only deal with experiments, but also enjoy studying theoretical models of the many-particle physics. Passionate and curious I can easily use several instruments to realize self-designed experiments, as well as the programming language.  
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* October 2015 – November 2019 PhD Degree in materials science at Institut de Ciència de Materials de Barcelona (ICMAB-CSIC) - Universitat Autònoma de Barcelona (UAB) (Barcelona, Spain)
+<br/>Thesis: [Artificial Synapses based on the Photoconductance of LaAlO3/SrTiO3 Quantum Wells](https://dialnet.unirioja.es/servlet/dctes?codigo=270736)
+<br/>Supervisor: Dr. Gervasi HERRANZ CASABONA
+* March 2011 – June 2014 master’s degree in Condensed Matter Physics at Shanghai University (SHU) (Shanghai, China)
+<br/>Thesis: Study on electrotransport properties of Graphene Ferromagnetic/Insulator/Superconducting junction
+<br/>Supervisor: Prof. Shiping ZHOU
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* February 2021 – Present Italian National Research Council- SuPerconductors, oxides and other INnovative materials and devices (CNR-SPIN)
+<br/>Fixed-term researcher (Post-Doc) in the framework of the TOPSPIN (“two-dimensional oxides platform for spin-orbitronics nanotechnology”)
+<br/>Topic: Experimental methods for the study of the low temperature physics of transition metal oxides two- dimensional electron gas for applications in quantum technologies
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* May 2020 – December 2020 FACULTY OF PHYSICS - Universitat Autònoma de Barcelona
+POSTDOC IN PROF. JORDI SORT’S GROUP May 2020 - Sep. 2020
+<br/>Fixed-term researcher (Post-Doc) in the framework of the ERC project ‘SPIN-PORICS MERGING
+<br/>NANOPOROUS MATERIALS WITH ENERGY-EFFICIENT SPINTRONICS’
+  * Magnetoelectricity in FeGa/PVDF multiferroic bilayer
+  * Magnetoionics (Voltage-driven motion of nitrogen/oxygen ions)
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Along my study and job careers I gained massive familiarity with the following techniques and instruments:
+1. Deposition systems for oxide/metallic thin films such as: pulsed laser deposition, sputtering, and evaporation.
+2. UV photolithography and mask design
+3. Electrical transport characterization
+4. Impedance measurement
+5. Confocal Optical microscopy, MOKE (Magneto optical Kerr Effect)
+6. Magnetic and (magneto)transport measurements for oxide thin films (PPMS and Vibrating-sample magnetometry (VSM))
+7. Multimeter, oscilloscope and function generator
+8. Programming:
+Matlab (Data analysis, numerical calculations of tight-binding models, ...), Python, LATEX, LabVIEW, Labwindows…
+9. Data analysis and modeling,
+10. Other software: Originlab, Igor, Vesta, SketchUp, Adobe illustration, Inkscape, CleWin4, Latex animation, Gwyddion...
+11. Languages: Chinese, English
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+<! Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Learning
 ======
   <ul>{% for post in site.learning %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams >
