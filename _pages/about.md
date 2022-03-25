@@ -35,9 +35,7 @@ I am learning some topics in the physics and mathematics. I will update the lear
 [Portfolio](https://doctoryuchen.github.io/portfolio/)
 ======
 Life, science, art, coding and so on...
-<br> <img src='/images/Funny_Cover.png';
-width='484.25';
-height='484.25'>
+<br> <img src='/images/Funny_Cover.png' width="484.25" height="484.25">
 
 [Links](https://doctoryuchen.github.io/links/)
 ======
