@@ -56,3 +56,5 @@ Ignor
 Inkscape
 ------
 [Manuel](http://tavmjong.free.fr/INKSCAPE/MANUAL_v16/html/index.html)
+
+Html  using the escape double quote: &+quot &quot; 
