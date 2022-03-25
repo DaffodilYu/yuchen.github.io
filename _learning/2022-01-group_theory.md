@@ -4,7 +4,7 @@ collection: learning
 type: "Group theory"
 permalink: /2022-01-group_theory
 venue: " University of Naples &quotFederico II&quot, Department of Physics"
-date: 2022-03-25
+date: 2022-01-02
 location: "Napoli, Italy"
 ---
 
