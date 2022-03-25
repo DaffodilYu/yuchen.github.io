@@ -8,11 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-[Building up...](https://github.com/DoctorYuChen/DoctorYuchen.github.io/edit/gh-pages/)
+Building up...
+
+Outline of this website:
+======
+1. Research: the project on going, interests, publication
+2. Software and Programming
+3. Blog
+4. Learning
+5. Usefull link
+
 
 Research
 ======
-- [QUANtum Technologies with 2D-OXides](http://quantox.spin.cnr.it/)
+Publication
+------
+Y. Chen, Y. Lechaux, B. Casals, B. Guillet, A. Minj, J. Gázquez, L. Méchin, and G. Herranz, Photoinduced Persistent Electron Accumulation and Depletion in LaAlO3/SrTiO3 Quantum Wells, [Phys. Rev. Lett. 2020, 124, 246804](https://doi.org/10.1103/PhysRevLett.124.246804)
+<br/><img src='https://journals.aps.org/prl/article/10.1103/PhysRevLett.124.246804/figures/3/medium'>
 
 Programming
 ======
@@ -31,6 +43,11 @@ To save the figure using Labtalk script
 ```Labtalk
 expGraph type:=png path:="C:\xx\xx\xx\xx" filename:="TEST" ;
 ```
+
+ACS maximum 85 mm,  APS maximum 86 mm
+
+Single column(like ACS maximum 85mm):  42 mm x 40 mm
+
 
 Ignor
 ------
