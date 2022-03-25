@@ -1,4 +1,12 @@
-
+---
+title: "OOMMF"
+collection: coding
+type: "oommf"
+permalink: /coding/oommf
+venue: " University of Naples &quotFederico II&quot, Department of Physics"
+date: 2022-03-25
+location: "Napoli, Italy"
+---
 
 
 Installation
