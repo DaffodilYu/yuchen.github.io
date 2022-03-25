@@ -3,7 +3,7 @@ title: "Matlab"
 collection: coding
 type: "matlab"
 permalink: /coding/matlab
-venue: " University of Naples &quot Federico II &quot, Department of Physics"
+venue: " University of Naples &quotFederico II&quot, Department of Physics"
 date: 2022-03-25
 location: "Napoli, Italy"
 ---
