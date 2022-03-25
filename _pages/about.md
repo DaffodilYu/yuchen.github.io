@@ -36,8 +36,8 @@ I am learning some topics in the physics and mathematics. I will update the lear
 ======
 Life, science, art, coding and so on...
 <br> <img src='/images/Funny_Cover.png';
-width: 50%;
-height: auto;>
+width='484.25';
+height='484.25'> >
 
 [Links](https://doctoryuchen.github.io/links/)
 ======
