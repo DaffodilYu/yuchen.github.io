@@ -41,5 +41,5 @@ Life, science, art, coding and so on...
 ======
 There are many useful and interesting links, including the physics courses, software, sources of PhD thesis, scholars, and so on.
 
-My [CV](https://doctoryuchen.github.io/cv/)
+[Curriculum Vitae](https://doctoryuchen.github.io/cv/)
 ======
