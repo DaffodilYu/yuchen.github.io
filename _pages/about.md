@@ -21,7 +21,8 @@ Outline of this website:
 
 Research
 ======
-Publication
+
+[Publication](https://doctoryuchen.github.io/publications/)
 ------
 
 Y. Chen, Y. Lechaux, B. Casals, B. Guillet, A. Minj, J. Gázquez, L. Méchin, and G. Herranz, Photoinduced Persistent Electron Accumulation and Depletion in LaAlO3/SrTiO3 Quantum Wells, [Phys. Rev. Lett. 2020, 124, 246804](https://doi.org/10.1103/PhysRevLett.124.246804)
