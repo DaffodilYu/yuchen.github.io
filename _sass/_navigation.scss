@@ -196,8 +196,8 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: rgba(169,190,123,0.8);  // $primary-color;
-    color: rgba(46,89,167,0.8);  // #fff;
+    background-color: $primary-color;  // rgba(169,190,123,0.8);
+    color: rgba(169,190,123,0.8);   // #fff; rgba(46,89,167,0.8);
     cursor: pointer;
   }
 
