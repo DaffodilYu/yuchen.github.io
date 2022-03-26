@@ -17,3 +17,18 @@ redirect_from:
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+<script>
+  (function() {
+      if (location.pathname === '/') {
+      	return;
+      }
+      var main = document.querySelector('main');
+      var script = document.createElement('script');
+      script.src='https://utteranc.es/client.js'
+      script.setAttribute('repo', 'data/comments');
+      script.setAttribute('issue-term', 'pathname');
+      main.appendChild(script);
+  })();
+</script>
