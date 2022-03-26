@@ -31,6 +31,9 @@ Y. Chen, Y. Lechaux, B. Casals, B. Guillet, A. Minj, J. Gázquez, L. Méchin, an
 ======
 I am learning some topics in the physics and mathematics. I will update the learning note from time to time.
 
+[Blog and Peom](https://doctoryuchen.github.io/year-archive/)
+======
+I am writing blog to practice my English and Chinese poem to record my mood...
 
 [Portfolio](https://doctoryuchen.github.io/portfolio/)
 ======
