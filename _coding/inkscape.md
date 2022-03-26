@@ -4,7 +4,7 @@ collection: coding
 type: "inkscape"
 permalink: /coding/inkscape
 venue: " University of Naples &quotFederico II&quot, Department of Physics"
-date: 2022-03-25
+date: 2018-06-01
 location: "Napoli, Italy"
 ---
 
