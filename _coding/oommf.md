@@ -4,7 +4,7 @@ collection: coding
 type: "oommf"
 permalink: /coding/oommf
 venue: " University of Naples &quotFederico II&quot, Department of Physics"
-date: 2021-03-25
+date: 2020-09-01
 location: "Napoli, Italy"
 ---
 
