@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Quantum Garden 琅寰福地"
+title: "Quantum Garden 琅嬛福地"
 excerpt: "About me"
 author_profile: true
 redirect_from:
