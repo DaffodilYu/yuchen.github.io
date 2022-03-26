@@ -1,0 +1,22 @@
+---
+title: "About this website template"
+collection: coding
+type: "html"
+permalink: /coding/matlab
+venue: " University of Naples &quotFederico II&quot, Department of Physics"
+date: 2022-03-26
+location: "Napoli, Italy"
+---
+
+Change the background color of the navigation.
+
+Open _sass/_navigation.scss, modify the color:
+
+```
+.greedy-nav {
+  position: relative;
+  min-width: 250px;
+  background:  rgba(169,190,123,0.8); //rgba(46,89,167,0.8);  // $background-color;
+  ....
+
+```
