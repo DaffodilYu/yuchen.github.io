@@ -19,8 +19,13 @@ redirect_from:
 {% endfor %}
 
 
-{% include reviews-new.html %}
+<section class="constrain">
+  <h3>Write a review</h3>
+  {% include reviews-new.html %}
+</section>
 
-<h3>All reviews</h3>
+<section class="constrain">
+  <h3>All reviews</h3>
 
-{% include reviews.html %}
+  {% include reviews.html %}
+</section>
