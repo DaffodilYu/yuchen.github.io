@@ -83,7 +83,7 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: rgba(46,89,167,0.8);    //  mix(#fff, $gray, 25%);
+      color: mix(#fff, $gray, 25%);
       border: 1px solid $light-gray;
       border-radius: 0;
 
@@ -92,12 +92,12 @@
       }
 
       &.current {
-        color: rgba(46,89,167,0.8); // #fff;
-        background: rgba(46,89,167,0.8);    // $primary-color;
+        color: #fff;
+        background: $primary-color;
       }
 
       &.disabled {
-        color:  rgba(46,89,167,0.8); // mix(#fff, $gray, 75%);
+        color: mix(#fff, $gray, 75%);
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -131,7 +131,7 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: rgba(46,89,167,0.8); //mix(#fff, $gray, 50%);
+    color: mix(#fff, $gray, 50%);
     border: 1px solid $light-gray;
     border-radius: $border-radius;
 
@@ -151,7 +151,7 @@
     }
 
     &.disabled {
-      color:  mix(#fff, $gray, 50%);  //mix(#fff, $gray, 75%);
+      color: mix(#fff, $gray, 75%);
       pointer-events: none;
       cursor: not-allowed;
     }
@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background:  rgba(169,190,123,0.8); //rgba(46,89,167,0.8);  // $background-color;
+  background: $background-color;
 
   a {
     display: block;
@@ -196,8 +196,8 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;  // rgba(169,190,123,0.8);
-    color: #fff; // rgba(46,89,167,0.8); rgba(169,190,123,0.8);
+    background-color: $primary-color;
+    color: #fff;
     cursor: pointer;
   }
 
@@ -374,7 +374,7 @@
   color: $gray;
   text-transform: uppercase;
   letter-spacing: 1px;
-  background-color: rgba(46,89,167,0.8); // #BED2BB  #2E59A7  #fff
+  background-color: #fff;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
