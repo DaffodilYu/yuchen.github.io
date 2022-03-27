@@ -160,3 +160,15 @@ section + section {
 .field-group {
 	display: block;
 }
+
+.modal {
+	display: none;
+	position: fixed;
+	width: 300px;
+	top: 50%;
+	left: 50%;
+	margin-left: -150px;
+	margin-top: -150px;
+	min-height: 0;
+	z-index: 9999;
+}
