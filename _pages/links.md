@@ -7,7 +7,7 @@ redirect_from:
   - /links.html
 ---
 
-(Edit)[https://github.com/DoctorYuChen/DoctorYuchen.github.io/edit/gh-pages/_pages/links.md]
+[Edit](https://github.com/DoctorYuChen/DoctorYuchen.github.io/edit/gh-pages/_pages/links.md)
 
 ## Interesting links
 
@@ -114,13 +114,6 @@ redirect_from:
 - [Prof. Xiaodong Yang](https://web.mst.edu/~yangxia/index.html) Nanoscale Optics Laboratory, Prof. Xiaodong Yang, Department of Mechanical and Aerospace Engineering,Missouri University of Science and Technology
 - [Xiaogang Wen - MIT](https://xgwen.mit.edu/)
 - (Marco Grilli)[https://corsidilaurea.uniroma1.it/en/users/marcogrilliuniroma1it]
-> -Statistical mechanics and field theory and their application to the critical phenomena in disordered electron systems;
-> -quantum statistical mechanics and numerical simulation of quantum systems;
-> -strongly correlated electron systems;
-> -high temperature superconductors;
-> -electron-phonon interacting systems;
-> -quantum critical phenomena in strongly correlated electron systems.
-> -Elecronic properties in oxide heterostructures. Spintronics
 
 
 ### Looking for a job
