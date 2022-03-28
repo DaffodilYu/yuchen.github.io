@@ -50,7 +50,8 @@ Three mechanisms
 
 
 
-
+> Since the 1980s, the quantum Hall effect in two dimensional electron systems in semiconductor heterostructures has become a major field of research in
+> physics( Prange and Girvin, 1987).
 
 
 
@@ -63,6 +64,8 @@ Some concepts I should understand.
    >**Berry-phase curvatures** and it is therefore an intrinsic quantum-mechanical property of a perfect crystal.
 
 2. metallic dilute magnetic semiconductors
+
+   the case of a material containing magnetic impurities e.g., Mn embedded in a nonmagnetic host such as Cu (the dilute Kondo system).
 
 3. Skew scattering 
 

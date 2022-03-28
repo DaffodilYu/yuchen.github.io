@@ -100,5 +100,13 @@ Extracted from *N. Nagaosa, J. Sinova, S. Onoda, A. H. MacDonald, and N. P. Ong,
 
    >Some of the confusion in experimental studies stemmed from a hazy distinction between the KL mechanism and the side-jump mechanism, a poor understanding...
 
+7. wan  /wɒn/
+
+   adj. （脸色或外表）苍白的；乏力的；（光线）暗淡的，微弱的；（微笑）淡淡的，不自然的；（诗、文）（大海）暗淡的
+
+   v. （使）变苍白；（使）呈病态
+
+   >In the mid-1980s, interest in the AHE problem had waned significantly
+
 7. 
 
