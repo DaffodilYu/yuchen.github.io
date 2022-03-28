@@ -36,7 +36,7 @@ Hall resistivity $\rho_{xy} = R_0H_z + R_sM_z$
 
 > The second term represents the Halleffect contribution due to the spontaneous magnetization.
 
-> Kondo considering skew scattering from spin excitations Kondo, 1962, it may be seen that $\rho_{xy}$ also varies as $\rho^2$ at finite T.
+> Kondo considering skew scattering from spin excitations (Kondo, 1962), it may be seen that $\rho_{xy}$ also varies as $\rho^2$ at finite T.
 
 Smit argued that the main source of the AHE currents
 was asymmetric (skew) scattering from impurities caused
