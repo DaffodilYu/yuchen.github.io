@@ -2,12 +2,14 @@
 title: "English Words"
 collection: Learning
 type: "English"
-permalink: /Literature_MagnetoTransport
+permalink: /English_word
 venue: " University of Naples &quotFederico II&quot, Department of Physics"
 date: 2022-03-28
 location: "Napoli, Italy"
 
 ---
+
+Extracted from *N. Nagaosa, J. Sinova, S. Onoda, A. H. MacDonald, and N. P. Ong, Anomalous Hall Effect, Rev. Mod. Phys. 82, 1539 (2010).*  and  *Youdao dictionary* .
 
 
 
