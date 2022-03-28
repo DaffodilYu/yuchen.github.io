@@ -62,5 +62,25 @@ location: "Napoli, Italy"
 
    >the AHE problem was quickly mired in a controversy of unusual endurance.
 
-4. 
+4. hindsight  /ˈhaɪndsaɪt/
+
+   n. 后见之明 understanding the nature of an event after it has happened
+
+   hindsight is always better than foresight
+
+   >In 1954, Karplus and Luttinger KL Karplus and Luttinger, 1954 proposed a theory for the AHE that, in hindsight, provided a crucial step in unraveling the AHE problem.
+
+5.  consensus /kənˈsensəs/ 
+
+   n. 一致看法，共识
+
+   Washington Consensus 华盛顿共识
+
+   scientific consensus 科学共识
+
+   reach a consensus 达成共识
+
+   >The subsequent consensus was that such plots do not settle the debate.
+
+6. 
 

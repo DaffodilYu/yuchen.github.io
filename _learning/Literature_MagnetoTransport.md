@@ -26,7 +26,19 @@ Anomalous Hall effect:
 
 ​	Berry phase (Berry, 1984).
 
-​	 “anomalous velocity” by Luttinger, arose naturally in the first microscopic theory of the AHE by Karplus and Luttinger (1954).
+​	 earlier dubbed “anomalous velocity” by Luttinger, arose naturally in the first microscopic theory of the AHE by Karplus and Luttinger (1954).
+
+> KL showed that when an external electric field is applied to a solid, electrons acquire an additional contribution to their group velocity.
+
+
+
+> experiments of Pugh 1930 and Pugh and Lippert 1932 stablished that an empirical relation
+
+Hall resistivity $\rho_{xy} = R_0H_z + R_sM_z$
+
+> The second term represents the Halleffect contribution due to the spontaneous magnetization.
+
+
 
 
 
