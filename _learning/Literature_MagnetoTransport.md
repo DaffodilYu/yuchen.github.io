@@ -53,7 +53,7 @@ Three mechanisms
 > Since the 1980s, the quantum Hall effect in two dimensional electron systems in semiconductor heterostructures has become a major field of research in
 > physics( Prange and Girvin, 1987).
 
-
+>Both the integer (Thouless et al., 1982) and fractional quantum Hall effects can be explained in terms of the topological properties of the electronic wave functions.
 
 Some concepts I should understand.
 
@@ -62,6 +62,11 @@ Some concepts I should understand.
    >On the theoretical front, the adoption of the **Berry-phase**
    >concepts has established a link between the AHE and the topological nature of the 	Hall currents... The intrinsic AHE can be expressed in terms of the
    >**Berry-phase curvatures** and it is therefore an intrinsic quantum-mechanical property of a perfect crystal.
+
+   > Readers who are not familiar with the Berry-phase concepts
+   > may find it useful to consult the elementary review by
+   > Ong and Lee (2006) and the popular commentary by
+   > MacDonald and Niu (2004).
 
 2. metallic dilute magnetic semiconductors
 
