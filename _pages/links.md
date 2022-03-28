@@ -96,6 +96,7 @@ redirect_from:
 - [academia](https://www.academia.edu/) Here you can download some papers and books.
 
 #### Conference
+- [2022 Swiss Workshop on Materials with Novel Electronic Properties Aug. 29th – 31st, 2022](https://swm22.manep.ch/)
 -[European Materials Research Society](https://www.european-mrs.com/)
 
 ### Data Science and machine learning
