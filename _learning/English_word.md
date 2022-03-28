@@ -1,5 +1,5 @@
 ---
-title: "Words"
+title: "English Words"
 collection: Learning
 type: "English"
 permalink: /Literature_MagnetoTransport
@@ -11,7 +11,9 @@ location: "Napoli, Italy"
 
 
 
-1. **enigmatic** /ˌenɪɡˈmætɪk/  adj. 神秘的；高深莫测的；谜一般的
+1. **enigmatic** /ˌenɪɡˈmætɪk/  
+
+   adj. 神秘的；高深莫测的；谜一般的
 
    **短语**
 
@@ -34,7 +36,31 @@ location: "Napoli, Italy"
       an enigmatic smile
       近义词： oracular (adj. 神谕的；谜似的；玄妙深奥的)
 
-   >The AHE has been an **enigmatic** problem that has resisted theoretical and experimental assaults for almost a century.
+   >The AHE has been an **enigmatic** problem that has resisted theoretical and experimental **assaults** for almost a century.
 
-2. 
+2. dubbed /dʌbd/ 
+
+   adj. 被称为的；译制的
+
+   v. 刺；授予……称号；译制影片；结账（dub 的过去分词）
+
+   dubbed film title 译制片字幕
+
+   to be dubbed 被称为
+
+   ubbed one pair 配成一对
+
+   >What is now viewed as the Berry-phase curvature, earlier dubbed “anomalous velocity” by Luttinger, arose naturally in the first microscopic theory of the AHE by Karplus and Luttinger (1954).
+
+3. mire  /ˈmaɪə(r)/ 
+
+   n. 泥潭；[地理]泥沼 = moss
+
+   vi. 陷于泥坑；陷入困境 = get into hot waterget into a jam
+
+   vt. 使陷于泥坑；使陷入困境 = embog
+
+   >the AHE problem was quickly mired in a controversy of unusual endurance.
+
+4. 
 

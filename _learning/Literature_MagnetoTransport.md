@@ -1,16 +1,32 @@
 ---
 title: "Literature_MagnetoTransport"
-collection: Literature
-type: "Research"
+collection: Learning
+type: "Literature"
 permalink: /Literature_MagnetoTransport
 venue: " University of Naples &quotFederico II&quot, Department of Physics"
 date: 2022-03-28
 location: "Napoli, Italy"
 ---
 
+
+
 N. Nagaosa, J. Sinova, S. Onoda, A. H. MacDonald, and N. P. Ong, Anomalous Hall Effect, Rev. Mod. Phys. 82, 1539 (2010).
 
->The Hall effect was frequently called the queen of solid-state transport experiments.
+>The Hall effect was frequently called the queen of solid-state transport experiments. 
+>
+>The AHE problem involves concepts based on topology and geometry.
+
+Normal Hall Effect:  
+
+​	In 1879 Edwin H. Hall, conductor
+
+​	In 1881 Edwin H. Hall, ferromagnetic iron 
+
+Anomalous Hall effect: 
+
+​	Berry phase (Berry, 1984).
+
+​	 “anomalous velocity” by Luttinger, arose naturally in the first microscopic theory of the AHE by Karplus and Luttinger (1954).
 
 
 
