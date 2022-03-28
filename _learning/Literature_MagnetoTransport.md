@@ -54,7 +54,7 @@ Three mechanisms
 
 
 
-Some concept I should understand.
+Some concepts I should understand.
 
 1. Berry-phase
 
