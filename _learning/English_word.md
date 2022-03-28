@@ -82,5 +82,21 @@ location: "Napoli, Italy"
 
    >The subsequent consensus was that such plots do not settle the debate.
 
-6. 
+6. hazy  /ˈheɪzi/
+
+   adj. 雾蒙蒙的，朦胧的；记不清的，模糊的；主意不定的，困惑的
+
+   hazy violet 紫罗兰
+
+   hazy weather 烟雾天气
+
+   hazy sunshine 蒙蒙的阳光
+
+   Hazy Moonnight 朦胧月夜
+
+   Lazy Hazy Crazy 同班同学
+
+   >Some of the confusion in experimental studies stemmed from a hazy distinction between the KL mechanism and the side-jump mechanism, a poor understanding...
+
+7. 
 
