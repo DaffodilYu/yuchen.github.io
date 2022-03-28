@@ -30,7 +30,7 @@ Anomalous Hall effect:
 
 > KL showed that when an external electric field is applied to a solid, electrons acquire an additional contribution to their group velocity.
 
-> experiments of Pugh 1930 and Pugh and Lippert 1932 stablished that an empirical relation
+> experiments of Pugh (1930) and Pugh and Lippert (1932) stablished that an empirical relation
 
 Hall resistivity $\rho_{xy} = R_0H_z + R_sM_z$
 
@@ -39,8 +39,8 @@ Hall resistivity $\rho_{xy} = R_0H_z + R_sM_z$
 > Kondo considering skew scattering from spin excitations Kondo, 1962, it may be seen that $\rho_{xy}$ also varies as $\rho^2$ at finite T.
 
 Smit argued that the main source of the AHE currents
-was asymmetric skew scattering from impurities caused
-by the spin-orbit interaction SOI Smit, 1955, 1958.
+was asymmetric (skew) scattering from impurities caused
+by the spin-orbit interaction (SOI) (Smit, 1955, 1958.)
 
 
 
