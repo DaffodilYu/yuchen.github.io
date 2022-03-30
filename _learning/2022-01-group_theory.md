@@ -1,14 +1,16 @@
 ---
 title: "Group theory"
 collection: learning
-type: "Group theory"
+type: "Mathematics"
 permalink: /2022-01-group_theory
-venue: " University of Naples &quotFederico II&quot, Department of Physics"
 date: 2022-01-02
 location: "Napoli, Italy"
 ---
+Group Theory and Quantum Mechanics - Michael Tinkham <img src='https://qph.cf2.quoracdn.net/main-qimg-45b38772bcc40d88c3b88a7b2f3ce055-pjlq'>
 
+I ever read his book on supperconductivity. I just known this book.
 
+Dresselhaus’ book on Group Theory
 
 ## Books and notebooks
 

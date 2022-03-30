@@ -112,17 +112,27 @@ Upcoming Conference:
 ### Scholar webpage
 - [Gervasi Herranz](https://gervasi-herranz.blog/)
 > Physicist, Condensed Matter & Photonics at ICMAB-CSIC, Barcelona
-> Research interests: (i) [Nanophotonics](https://gherranz.wordpress.com/2017/08/25/multifunctional-photonics/). (ii) [Oxide Quantum Wells](https://gherranz.wordpress.com/2017/08/25/2d-electronic-systems-the-case-of-laalo3srtio3/).
+ Research interests: (i) [Nanophotonics](https://gherranz.wordpress.com/2017/08/25/multifunctional-photonics/). (ii) [Oxide Quantum Wells](https://gherranz.wordpress.com/2017/08/25/2d-electronic-systems-the-case-of-laalo3srtio3/).
+
 - [Shanshan Wang](https://shannwang.github.io/shanshanwang/index.html)
 > Her research interests: Econophysics, Market Microstructure, Price Impact, Complex Systems, Traffic Networks, Data Science, Machine Learning
+
 - [Olivier Fruchart](http://fruchart.eu/olivier/links/links.html) He is a senior scientist and deputy director at SPINTEC Laboratory, Grenoble, France. SPINTEC is devoted to spin electronics. On his website there are many intereting links.
+
 - [Prof. Xiaodong Yang](https://web.mst.edu/~yangxia/index.html) Nanoscale Optics Laboratory, Prof. Xiaodong Yang, Department of Mechanical and Aerospace Engineering,Missouri University of Science and Technology
+
 - [Xiaogang Wen - MIT](https://xgwen.mit.edu/)
-- (Marco Grilli)[https://corsidilaurea.uniroma1.it/en/users/marcogrilliuniroma1it]
+
+- [Marco Grilli](https://corsidilaurea.uniroma1.it/en/users/marcogrilliuniroma1it)
 
 
 ### Looking for a job
 - [Jobs in Science](https://jobs.sciencecareers.org/)
+- [APS Job](https://careers.aps.org/jobs/)
+- [European Commission, EURAXESS](https://euraxess.ec.europa.eu/jobs)
+- [Academic Transfer](https://www.academictransfer.com/en/jobs/)
+- [Academic Keys](https://sciences.academickeys.com/)
+
 
 ## Reading
 1. [Productivity Books](https://www.lifehack.org/articles/productivity/30-best-books-productivity-you-should-read.html)

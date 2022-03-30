@@ -1,12 +1,14 @@
 ---
 title: "Many-body physics"
-collection: Learning
-type: "Many-body physics"
+collection: learning
+type: "Physical Thoery"
 permalink: /2022-02-Many_particle_physics
 venue: " University of Naples &quotFederico II&quot, Department of Physics"
 date: 2022-01-02
 location: "Napoli, Italy"
 ---
+
+Many-Particle Physics - Gerald D. Mahan <br><img src='https://images-na.ssl-images-amazon.com/images/I/4177wpuKkgL._SX348_BO1,204,203,200_.jpg'>
 
 
 

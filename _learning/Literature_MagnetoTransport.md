@@ -1,5 +1,5 @@
 ---
-title: "Literature_MagnetoTransport"
+title: "MagnetoTransport"
 collection: Learning
 type: "Literature"
 permalink: /Literature_MagnetoTransport
@@ -12,7 +12,7 @@ location: "Napoli, Italy"
 
 N. Nagaosa, J. Sinova, S. Onoda, A. H. MacDonald, and N. P. Ong, Anomalous Hall Effect, Rev. Mod. Phys. 82, 1539 (2010).
 
->The Hall effect was frequently called the queen of solid-state transport experiments. 
+>The Hall effect was frequently called the queen of solid-state transport experiments.
 >
 >The AHE problem involves concepts based on topology and geometry.
 
@@ -20,9 +20,9 @@ Normal Hall Effect:
 
 ​	In 1879 Edwin H. Hall, conductor
 
-​	In 1881 Edwin H. Hall, ferromagnetic iron 
+​	In 1881 Edwin H. Hall, ferromagnetic iron
 
-Anomalous Hall effect: 
+Anomalous Hall effect:
 
 ​	Berry phase (Berry, 1984).
 
@@ -72,7 +72,7 @@ Some concepts I should understand.
 
    the case of a material containing magnetic impurities e.g., Mn embedded in a nonmagnetic host such as Cu (the dilute Kondo system).
 
-3. Skew scattering 
+3. Skew scattering
 
    > An extrinsic mechanism, skew scattering from disorder, tends to dominate the AHE in highly conductive ferromagnets.
 
@@ -82,4 +82,4 @@ Some concepts I should understand.
    >the Kubo and Keldysh formalisms are reviewed, taking into account multiband effects, and
    >demonstrate the equivalence of all three linear response theories in the metallic regime.
 
-2. 
+2.
