@@ -40,7 +40,7 @@ Extracted from *N. Nagaosa, J. Sinova, S. Onoda, A. H. MacDonald, and N. P. Ong,
 
    >The AHE has been an **enigmatic** problem that has resisted theoretical and experimental **assaults** for almost a century.
 
-2. dubbed /dʌbd/
+2. **dubbed** /dʌbd/
 
    adj. 被称为的；译制的
 
@@ -54,7 +54,7 @@ Extracted from *N. Nagaosa, J. Sinova, S. Onoda, A. H. MacDonald, and N. P. Ong,
 
    >What is now viewed as the Berry-phase curvature, earlier dubbed “anomalous velocity” by Luttinger, arose naturally in the first microscopic theory of the AHE by Karplus and Luttinger (1954).
 
-3. mire  /ˈmaɪə(r)/
+3. **mire**  /ˈmaɪə(r)/
 
    n. 泥潭；[地理]泥沼 = moss
 
@@ -64,7 +64,7 @@ Extracted from *N. Nagaosa, J. Sinova, S. Onoda, A. H. MacDonald, and N. P. Ong,
 
    >the AHE problem was quickly mired in a controversy of unusual endurance.
 
-4. hindsight  /ˈhaɪndsaɪt/
+4. **hindsight**  /ˈhaɪndsaɪt/
 
    n. 后见之明 understanding the nature of an event after it has happened
 
@@ -72,7 +72,7 @@ Extracted from *N. Nagaosa, J. Sinova, S. Onoda, A. H. MacDonald, and N. P. Ong,
 
    >In 1954, Karplus and Luttinger KL Karplus and Luttinger, 1954 proposed a theory for the AHE that, in hindsight, provided a crucial step in unraveling the AHE problem.
 
-5.  consensus /kənˈsensəs/
+5. **consensus** /kənˈsensəs/
 
    n. 一致看法，共识
 
@@ -84,7 +84,7 @@ Extracted from *N. Nagaosa, J. Sinova, S. Onoda, A. H. MacDonald, and N. P. Ong,
 
    >The subsequent consensus was that such plots do not settle the debate.
 
-6. hazy  /ˈheɪzi/
+6. **hazy**  /ˈheɪzi/
 
    adj. 雾蒙蒙的，朦胧的；记不清的，模糊的；主意不定的，困惑的
 
@@ -100,7 +100,9 @@ Extracted from *N. Nagaosa, J. Sinova, S. Onoda, A. H. MacDonald, and N. P. Ong,
 
    >Some of the confusion in experimental studies stemmed from a hazy distinction between the KL mechanism and the side-jump mechanism, a poor understanding...
 
-7. wan  /wɒn/
+
+
+7. **wan**  /wɒn/
 
    adj. （脸色或外表）苍白的；乏力的；（光线）暗淡的，微弱的；（微笑）淡淡的，不自然的；（诗、文）（大海）暗淡的
 
@@ -108,17 +110,18 @@ Extracted from *N. Nagaosa, J. Sinova, S. Onoda, A. H. MacDonald, and N. P. Ong,
 
    >In the mid-1980s, interest in the AHE problem had waned significantly
 
-8. controversy 英 /ˈkɒntrəvɜːsi/
 
-   >The points of controversy remained unsettled, however, and
-   >the topic was still mired in confusion.
+
+8. **controversy** 英 /ˈkɒntrəvɜːsi/
+
+   The points of controversy remained unsettled, however, and
+   the topic was still mired in confusion.
 
 9. [complex vs complicated](https://www.quora.com/Whats-the-difference-between-complex-and-complicated-1#:~:text=Something%20that%20is%20complicated%20is,reason%20is%20difficult%20to%20understand.)
 
-   Complex is not <u>simple</u> for the structure of the things
+​	Complex is not <u>simple</u> for the structure of the things
 
-   Complicated is not <u>easy</u> for the function of the things.
+​	Complicated is not <u>easy</u> for the function of the things.
 
 
 
-7.
