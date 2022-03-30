@@ -1,13 +1,21 @@
 ---
 title: "English Words"
-collection: Learning
+date: 2022-03-28
+collection: learning
 type: "English"
 permalink: /English_word
-venue: " University of Naples &quotFederico II&quot, Department of Physics"
-date: 2022-03-28
 location: "Napoli, Italy"
+venue: " University of Naples &quotFederico II&quot, Department of Physics"
+
+tags:
+  - English Word  # Topic
+  - Daily collection        # note class
+  - Academic writing      # content
 
 ---
+
+
+
 
 Extracted from *N. Nagaosa, J. Sinova, S. Onoda, A. H. MacDonald, and N. P. Ong, Anomalous Hall Effect, Rev. Mod. Phys. 82, 1539 (2010).*  and  *Youdao dictionary* .
 
@@ -122,6 +130,3 @@ Extracted from *N. Nagaosa, J. Sinova, S. Onoda, A. H. MacDonald, and N. P. Ong,
 ​	Complex is not <u>simple</u> for the structure of the things
 
 ​	Complicated is not <u>easy</u> for the function of the things.
-
-
-
