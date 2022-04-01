@@ -3,7 +3,7 @@ title: "Group theory"
 collection: learning
 type: "Mathematics"
 permalink: /2022-01-group_theory
-date: 2022-01-02
+date: 2022-04-01
 location: "Napoli, Italy"
 ---
 Group Theory and Quantum Mechanics - Michael Tinkham <img src='https://qph.cf2.quoracdn.net/main-qimg-45b38772bcc40d88c3b88a7b2f3ce055-pjlq'>
@@ -12,19 +12,59 @@ I ever read his book on supperconductivity. I just known this book.
 
 Dresselhaus’ book on Group Theory
 
+
+
+## Basic concept
+
+**Rotation** 
+
+If the coordinate is rotated by $\theta$ (anti-clockwise), R is
+$$
+R = \left[ \begin{array}{ll} 
+cos(\theta) & -sin(\theta)\\
+sin(\theta) & cos(\theta)
+\end{array} \right]
+$$
+**Subgroups and cosets**
+
+	- The cosets cannot be a subgroup since they don't include the identity element.
+	- A coset contains no elements in common with the subgroup.
+
+
+
+Examples of finite order
+
+- **Vierrergruppe** (A,B,C,E)
+
+ is a group of order 4, representing the rotational-symmetry group of a rectangular solid if A,B,C are taken to be the rotations by $\pi$ about the three orthogonal symmetry axes.
+
+- group of primer order
+
+  cyclic Abelian groups
+
+- Permutation groups (of factorial order)
+
+  The permutation group plays an important role in quantum theory because of Hamiltonian invariant under permutation of the particles.
+
+
+
+**Conjugate Elements and Class Structure**
+
+
+
 ## Books and notebooks
 
 《群论及其在物理学中的应用导论--李新征》
 
 ### 群的基本概念及定理
 
-1. 群是元素，操作的集合。满足封闭性，结合律，单位元素，逆元素。
+1. 群是元素，操作的集合。满足封闭性，结合律，单位元素，逆元素。 
 2. 群的阶
 3. 重排定理
 4. 群的例子：空间反演群，n阶置换群，D3群，n阶循环群（Abel群），
 5. 子群。如绕固定轴k转动的元素形成的群$\{C_{\vec{k}}(\Psi)\}$，是绕轴上某一点转动(过这点可以有无数个轴)的群 SO(3)群的子群。
-6. 群元的阶:对任意一个有限群G，从中取一个元素a，从a出发作幂操作， 总是可以构成G的一个循环子群Zk的，这个Zk等于{a、a2、 ⋯ 、ak−1、ak = e}， 这时称k(满足这个性质的最小的k)为群元a的阶。
-7. 陪集:设H是群G的子群，H = {hα}，由固定的g ∈ G，可生成子群H的左 陪集:gH = {ghα|hα ∈ H}，也可生成子群H的右陪集:Hg = {hαg|hα ∈ H}。
+6. 群元的阶:对任意一个有限群G，从中取一个元素a，从a出发作幂操作， 总是可以构成G的一个循环子群Zk的，这个Zk等于${a、a2、 ⋯ 、ak−1、ak = e}$， 这时称k(满足这个性质的最小的k)为群元a的阶。
+7. 陪集:设H是群G的子群，$H = {h_α}$，由固定的$g ∈ G$，但不属于H，可生成子群H的左陪集:$gH = {ghα|hα ∈ H}$，也可生成子群H的右陪集:Hg = {hαg|hα ∈ H}。
 8. 陪集定理:设群H是群G的子群，则H的两个左(或右)陪集或者完全相同，或者没有任何公共元素。
 9. 拉格朗日(Lagrange)定理:有限群子群的阶，必为群阶的因子。
 
