@@ -78,25 +78,11 @@ Service and leadership
 
     #<p>a pararaph</p>
 </div> -->
-<div id="editor"></div>
-<button id="cmd">Generate PDF</button>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
-<script>
-    var doc = new jsPDF();
-    var specialElementHandlers = {
-        '#editor': function (element, renderer) {
-            return true;
-        }
-    };
-
-    $('#cmd').click(function () {
-        doc.fromHTML($('#content').html(), 15, 15, {
-            'width': 170,
-                'elementHandlers': specialElementHandlers
-        });
-        doc.save('sample-file.pdf');
-    });
-
-    // This code is collected but useful, click below to jsfiddle link.
-</script>
+$('#downloadPDF').click(function () {
+    domtoimage.toPng(document.getElementById('content2'))
+      .then(function (blob) {
+          var pdf = new jsPDF('l', 'pt', [$('#content2').width(), $('#content2').height()]);
+          pdf.addImage(blob, 'PNG', 0, 0, $('#content2').width(), $('#content2').height());
+          pdf.save("test.pdf");
+      });
+});
