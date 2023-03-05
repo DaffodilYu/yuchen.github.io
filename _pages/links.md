@@ -9,9 +9,10 @@ redirect_from:
 
 [Edit](https://github.com/DoctorYuChen/DoctorYuchen.github.io/edit/gh-pages/_pages/links.md)
 
+[Group](https://quantumoxidesnaples.wordpress.com/)
+
 Upcoming Conference:
-- [QUOROM 2022 March 31](https://quoromvirtualconference.wordpress.com/)
-- [2022 Swiss Workshop on Materials with Novel Electronic Properties Aug. 29th – 31st, 2022](https://swm22.manep.ch/)
+
 
 ## Interesting links
 
