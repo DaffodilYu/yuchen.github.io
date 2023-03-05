@@ -81,8 +81,8 @@ Service and leadership
 <div id="editor"></div>
 <button id="cmd">Generate PDF</button>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
 <script>
-    src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js
     var doc = new jsPDF();
     var specialElementHandlers = {
         '#editor': function (element, renderer) {
