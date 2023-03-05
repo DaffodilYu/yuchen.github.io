@@ -14,7 +14,7 @@ Research
 
 It was stated: “the interface is the device”. This sharp and precise phrase coined by the Nobel laureate Herbet Kroemer, practically inspired and formed the basis of my scientific life.
 
-[Publication](https://doctoryuchen.github.io/publications/)
+[Publications](https://doctoryuchen.github.io/publications/)
 ------
 
 Y. Chen, Y. Lechaux, B. Casals, B. Guillet, A. Minj, J. Gázquez, L. Méchin, and G. Herranz, Photoinduced Persistent Electron Accumulation and Depletion in LaAlO<sub>3</sub>/SrTiO<sub>3</sub> Quantum Wells, [Phys. Rev. Lett. 2020, 124, 246804](https://doi.org/10.1103/PhysRevLett.124.246804)
