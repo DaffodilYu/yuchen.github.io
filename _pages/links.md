@@ -86,8 +86,9 @@ Upcoming Conference:
 - [Synonym](https://www.thesaurus.com/)
 
 ### Software learning
-#### OOMMF
+
 - [Talk: Micromagnetics and OOMMF](https://www.spintalks.org/tutorials)
+- [QuTiP](https://qutip.org/index.html) 
 
 ### Journal/thesis/Conference
 #### Journal
