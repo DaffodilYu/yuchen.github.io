@@ -85,10 +85,15 @@ Upcoming Conference:
 #### English
 - [Synonym](https://www.thesaurus.com/)
 
-### Software learning
+### Software and programming
 
 - [Talk: Micromagnetics and OOMMF](https://www.spintalks.org/tutorials)
-- [QuTiP](https://qutip.org/index.html) 
+- [QuTiP](https://qutip.org/index.html)
+
+#### Python
+##### PyQt5
+- [Qt namespace contains miscellaneous identifiers](https://doc.qt.io/qt-5/qt.html)
+- [ QWidget documentation](https://doc.qt.io/qt-5/widget-classes.html#basic-widget-classes)
 
 ### Journal/thesis/Conference
 #### Journal
